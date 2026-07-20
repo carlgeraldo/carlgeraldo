@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Carl 👋
 
-<!--
-**carlgeraldo/carlgeraldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Information Technology Student at Kwame Nkrumah University of Science and Technology (KNUST)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an Information Technology student passionate about cybersecurity, cloud computing, artificial intelligence, and software development.
+
+Currently learning:
+- C++
+- Cybersecurity
+- Cloud Computing
+- Networking
+- Artificial Intelligence
+
+## Skills
+
+💻 Programming:
+- C++
+
+🌐 Technology:
+- Git & GitHub
+- Networking Fundamentals
+- Cybersecurity Fundamentals
+- Cloud Computing
+
+## Projects
+
+🚧 Currently building:
+
+- ATM Simulator (C++)
+- Student Management System (C++)
+- Calculator Application (C++)
+
+## Certifications
+
+Coming soon:
+- Cisco Cybersecurity
+- Cloud Computing
+- AI Fundamentals
+
+## Connect With Me
+
+LinkedIn: linkedin.com/in/carl-geraldo
